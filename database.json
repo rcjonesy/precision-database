@@ -1,0 +1,574 @@
+{
+  "guitars": [
+    {
+      "id": 1,
+      "name": "Fender Stratocaster"
+    },
+    {
+      "id": 2,
+      "name": "Gibson Les Paul"
+    },
+    {
+      "id": 3,
+      "name": "PRS McCarty"
+    },
+    {
+      "id": 4,
+      "name": "Tyler Studio Elite"
+    },
+    {
+      "id": 5,
+      "name": "Martin D-28"
+    },
+    {
+      "id": 6,
+      "name": "Taylor 814ce"
+    },
+    {
+      "id": 7,
+      "name": "Epiphone Casino"
+    },
+    {
+      "id": 8,
+      "name": "Ibanez RG550"
+    },
+    {
+      "id": 9,
+      "name": "Gretsch White Falcon"
+    },
+    {
+      "id": 10,
+      "name": "Rickenbacker 360"
+    },
+    {
+      "id": 11,
+      "name": "ESP Eclipse"
+    },
+    {
+      "id": 12,
+      "name": "Washburn Nuno Bettencourt N4"
+    },
+    {
+      "id": 13,
+      "name": "Schecter Hellraiser C-1"
+    },
+    {
+      "id": 14,
+      "name": "Yamaha Pacifica"
+    },
+    {
+      "id": 15,
+      "name": "PRS Custom 24"
+    },
+    {
+      "id": 16,
+      "name": "Jackson Soloist"
+    },
+    {
+      "id": 17,
+      "name": "Gibson SG"
+    },
+    {
+      "id": 18,
+      "name": "Fender Telecaster"
+    },
+    {
+      "id": 19,
+      "name": "Epiphone Les Paul Standard"
+    },
+    {
+      "id": 20,
+      "name": "Gibson ES-335"
+    },
+    {
+      "id": 21,
+      "name": "Fender Jazzmaster"
+    },
+    {
+      "id": 22,
+      "name": "Gretsch G5420T"
+    },
+    {
+      "id": 23,
+      "name": "Danelectro 59DC"
+    },
+    {
+      "id": 24,
+      "name": "Rickenbacker 330"
+    },
+    {
+      "id": 25,
+      "name": "PRS SE Custom 24"
+    },
+    {
+      "id": 26,
+      "name": "Ibanez JEM"
+    },
+    {
+      "id": 27,
+      "name": "Fender Jaguar"
+    },
+    {
+      "id": 28,
+      "name": "Martin OM-28"
+    },
+    {
+      "id": 29,
+      "name": "Gibson Flying V"
+    },
+    {
+      "id": 30,
+      "name": "Gretsch Duo Jet"
+    },
+    {
+      "id": 31,
+      "name": "Fender Precision Bass"
+    },
+    {
+      "id": 32,
+      "name": "Music Man StingRay"
+    },
+    {
+      "id": 33,
+      "name": "Fender Jazz Bass"
+    },
+    {
+      "id": 34,
+      "name": "Rickenbacker 4003"
+    },
+    {
+      "id": 35,
+      "name": "Warwick Thumb Bass"
+    },
+    {
+      "id": 36,
+      "name": "Gibson Explorer"
+    },
+    {
+      "id": 37,
+      "name": "PRS Silver Sky"
+    },
+    {
+      "id": 38,
+      "name": "Fender Mustang"
+    },
+    {
+      "id": 39,
+      "name": "Gibson L-5"
+    },
+    {
+      "id": 40,
+      "name": "Fender Bass VI"
+    },
+    {
+      "id": 41,
+      "name": "Schecter Banshee Elite"
+    },
+    {
+      "id": 42,
+      "name": "Charvel San Dimas"
+    },
+    {
+      "id": 43,
+      "name": "Gibson Firebird"
+    },
+    {
+      "id": 44,
+      "name": "Ibanez AZ"
+    },
+    {
+      "id": 45,
+      "name": "Yamaha Revstar"
+    },
+    {
+      "id": 46,
+      "name": "Dean ML"
+    },
+    {
+      "id": 47,
+      "name": "Suhr Modern"
+    },
+    {
+      "id": 48,
+      "name": "Gretsch White Penguin"
+    },
+    {
+      "id": 49,
+      "name": "PRS S2 Custom 22"
+    },
+    {
+      "id": 50,
+      "name": "Fender Duo-Sonic"
+    },
+    {
+      "id": 51,
+      "name": "Martin GPC-28E"
+    },
+    {
+      "id": 52,
+      "name": "Gretsch Streamliner"
+    },
+    {
+      "id": 53,
+      "name": "Jackson Dinky"
+    },
+    {
+      "id": 54,
+      "name": "Schecter Omen-6"
+    },
+    {
+      "id": 55,
+      "name": "Ibanez RG350DX"
+    },
+    {
+      "id": 56,
+      "name": "Gibson Les Paul Junior"
+    },
+    {
+      "id": 57,
+      "name": "Fender Jazz Bass"
+    },
+    {
+      "id": 58,
+      "name": "Fender Elite Stratocaster"
+    },
+    {
+      "id": 59,
+      "name": "PRS SE Custom 22"
+    },
+    {
+      "id": 60,
+      "name": "Gretsch Electromatic"
+    },
+    {
+      "id": 61,
+      "name": "Epiphone Sheraton"
+    },
+    {
+      "id": 62,
+      "name": "Gibson SG Standard"
+    },
+    {
+      "id": 63,
+      "name": "Rickenbacker 620"
+    },
+    {
+      "id": 64,
+      "name": "Ibanez Artcore AS73"
+    },
+    {
+      "id": 65,
+      "name": "Fender Mustang Bass"
+    },
+    {
+      "id": 66,
+      "name": "Martin 000-28"
+    },
+    {
+      "id": 67,
+      "name": "PRS SE Santana"
+    },
+    {
+      "id": 68,
+      "name": "Charvel Pro-Mod San Dimas"
+    },
+    {
+      "id": 69,
+      "name": "Gibson ES-339"
+    },
+    {
+      "id": 70,
+      "name": "Fender Starcaster"
+    },
+    {
+      "id": 71,
+      "name": "Schecter C-1 Classic"
+    },
+    {
+      "id": 72,
+      "name": "Ibanez RG8"
+    },
+    {
+      "id": 73,
+      "name": "PRS SE Custom 24 Floyd"
+    },
+    {
+      "id": 74,
+      "name": "Gretsch G2622 Streamliner"
+    },
+    {
+      "id": 75,
+      "name": "Fender American Professional II Jazzmaster"
+    },
+    {
+      "id": 76,
+      "name": "Jackson Rhoads RR3"
+    },
+    {
+      "id": 77,
+      "name": "Gibson Les Paul Studio"
+    },
+    {
+      "id": 78,
+      "name": "Fender Jaguar Bass"
+    },
+    {
+      "id": 79,
+      "name": "Epiphone G-400 Pro"
+    },
+    {
+      "id": 80,
+      "name": "PRS SE 277 Baritone"
+    },
+    {
+      "id": 81,
+      "name": "Gibson Les Paul Custom"
+    },
+    {
+      "id": 82,
+      "name": "Ibanez RG550 Genesis"
+    },
+    {
+      "id": 83,
+      "name": "Fender American Performer Telecaster"
+    },
+    {
+      "id": 84,
+      "name": "Gretsch G2622T Streamliner"
+    },
+    {
+      "id": 85,
+      "name": "Charvel Pro-Mod DK24"
+    },
+    {
+      "id": 86,
+      "name": "Schecter Hellraiser C-7"
+    },
+    {
+      "id": 87,
+      "name": "PRS SE Mark Holcomb SVN"
+    },
+    {
+      "id": 88,
+      "name": "Fender American Ultra Stratocaster"
+    },
+    {
+      "id": 89,
+      "name": "Martin D-45"
+    },
+    {
+      "id": 90,
+      "name": "Gibson ES-175"
+    },
+    {
+      "id": 91,
+      "name": "Rickenbacker 660"
+    },
+    {
+      "id": 92,
+      "name": "Ibanez RG7421"
+    },
+    {
+      "id": 93,
+      "name": "Gretsch G2622LH Streamliner"
+    },
+    {
+      "id": 94,
+      "name": "Fender Player Series Jazz Bass"
+    },
+    {
+      "id": 95,
+      "name": "Schecter Demon-6"
+    },
+    {
+      "id": 96,
+      "name": "PRS SE Custom 22 Semi-Hollow"
+    },
+    {
+      "id": 97,
+      "name": "Jackson Soloist SL2"
+    },
+    {
+      "id": 98,
+      "name": "Gibson Les Paul Standard HP"
+    },
+    {
+      "id": 99,
+      "name": "Fender American Original '50s Stratocaster"
+    },
+    {
+      "id": 100,
+      "name": "Yamaha Pacifica 112V"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "service_name": "Minimum Bench Fee",
+      "description": "Minimum fee for evaluating the condition of the guitar on the bench.",
+      "fee": 50
+    },
+    {
+      "id": 2,
+      "service_name": "Setup",
+      "description": "Adjusting the guitar's action, intonation, and other settings for optimal playability.",
+      "fee": 75
+    },
+    {
+      "id": 3,
+      "service_name": "Level Frets",
+      "description": "Leveling the guitar's frets to ensure even playability and eliminate buzzing.",
+      "fee": 100
+    },
+    {
+      "id": 4,
+      "service_name": "Crown Frets",
+      "description": "Re-crowning and polishing the frets for improved tone and feel.",
+      "fee": 90
+    },
+    {
+      "id": 5,
+      "service_name": "Refret",
+      "description": "Replacing all the frets on the guitar for a complete fretboard overhaul.",
+      "fee": 200
+    },
+    {
+      "id": 6,
+      "service_name": "Broken Headstock Repair",
+      "description": "Repairing a broken or cracked headstock on the guitar.",
+      "fee": 150
+    },
+    {
+      "id": 7,
+      "service_name": "Electronics Repair",
+      "description": "Diagnosing and repairing issues with the guitar's electronics, such as pickups and wiring.",
+      "fee": 80
+    },
+    {
+      "id": 8,
+      "service_name": "Nut Replacement",
+      "description": "Replacing the nut on the guitar to improve tuning stability and playability.",
+      "fee": 60
+    },
+    {
+      "id": 9,
+      "service_name": "Bridge Replacement",
+      "description": "Replacing the bridge on the guitar for improved intonation and tone.",
+      "fee": 90
+    },
+    {
+      "id": 10,
+      "service_name": "Crack Repair",
+      "description": "Repairing cracks in the guitar's body or top for structural integrity.",
+      "fee": 120
+    },
+    {
+      "id": 11,
+      "service_name": "Pickup Change",
+      "description": "Replacing or upgrading the guitar's pickups for a different tone.",
+      "fee": 70
+    },
+    {
+      "id": 12,
+      "service_name": "Input Jack Repair",
+      "description": "Repairing or replacing the guitar's input jack for a reliable connection.",
+      "fee": 40
+    },
+    {
+      "id": 13,
+      "service_name": "Tuning Machine Replacement",
+      "description": "Replacing the tuning machines for better tuning stability.",
+      "fee": 55
+    },
+    {
+      "id": 14,
+      "service_name": "Fretboard Cleaning and Conditioning",
+      "description": "Cleaning and conditioning the fretboard for better playability.",
+      "fee": 30
+    },
+    {
+      "id": 15,
+      "service_name": "Neck Reset",
+      "description": "Resetting the neck angle to improve action and playability.",
+      "fee": 180
+    },
+    {
+      "id": 16,
+      "service_name": "Finish Repair and Touch-up",
+      "description": "Repairing and touching up the guitar's finish for aesthetics.",
+      "fee": 110
+    },
+    {
+      "id": 17,
+      "service_name": "Pickguard Replacement",
+      "description": "Replacing or installing a new pickguard on the guitar.",
+      "fee": 45
+    },
+    {
+      "id": 18,
+      "service_name": "Headstock Logo Restoration",
+      "description": "Restoring or recreating the guitar's headstock logo.",
+      "fee": 50
+    },
+    {
+      "id": 19,
+      "service_name": "Truss Rod Adjustment",
+      "description": "Adjusting the truss rod for proper neck relief.",
+      "fee": 35
+    },
+    {
+      "id": 20,
+      "service_name": "String Change and Setup",
+      "description": "Replacing strings and setting up the guitar for optimal performance.",
+      "fee": 25
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "johndoe@example.com",
+      "phoneNumber": "123-456-7890",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phoneNumber": "987-654-3210",
+      "isStaff": true
+    },
+    {
+      "id": 3,
+      "fullName": "Ryan Jones",
+      "email": "RyanJones@email.com",
+      "phoneNumber": "555-555-5555",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "Bob Brown",
+      "email": "bobbrown@example.com",
+      "phoneNumber": "111-222-3333",
+      "isStaff": false
+    }
+  ],
+  "repairs": [
+    {
+      "name": "Bob Brown",
+      "email": "BobBrown@email.com",
+      "phoneNumber": "555-555-5555",
+      "guitarType": "Gibson ES-335",
+      "serviceId": 19,
+      "dropoffDate": "2023-11-08",
+      "isRushed": false,
+      "additionalDetails": "Lots of string buzz",
+      "isCompleted": false,
+      "userId": 4,
+      "orderNumber": 835762,
+      "id": 2,
+      "completedBy": "John Doe",
+      "message": ""
+    }
+  ]
+}
