@@ -551,22 +551,50 @@
       "email": "bobbrown@example.com",
       "phoneNumber": "111-222-3333",
       "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "James Brown",
+      "email": "jamesbrown@example.com",
+      "phoneNumber": "111-222-3333",
+      "isStaff": false
+    },
+    {
+      "email": "james@email.com",
+      "fullName": "James Smith",
+      "isStaff": false,
+      "id": 5
     }
   ],
   "repairs": [
     {
       "name": "Bob Brown",
-      "email": "BobBrown@email.com",
-      "phoneNumber": "555-555-5555",
-      "guitarType": "Gibson ES-335",
-      "serviceId": 19,
-      "dropoffDate": "2023-11-08",
-      "isRushed": false,
-      "additionalDetails": "Lots of string buzz",
+      "email": "bobrowne@example.com",
+      "phoneNumber": "456-456-7895",
+      "guitarType": "Yamaha Pacifica",
+      "serviceId": 14,
+      "dropoffDate": "2023-11-17",
+      "isRushed": true,
+      "additionalDetails": "none at this time",
       "isCompleted": false,
       "userId": 4,
-      "orderNumber": 835762,
-      "id": 2,
+      "orderNumber": 119719,
+      "id": 5,
+      "message": ""
+    },
+    {
+      "name": "James Smith",
+      "email": "james@email.com",
+      "phoneNumber": "456-123-4567",
+      "guitarType": "Gibson Flying V",
+      "serviceId": 8,
+      "dropoffDate": "2023-11-15",
+      "isRushed": false,
+      "additionalDetails": "none at this time.",
+      "isCompleted": false,
+      "userId": 5,
+      "orderNumber": 764102,
+      "id": 6,
       "completedBy": "John Doe",
       "message": ""
     }
